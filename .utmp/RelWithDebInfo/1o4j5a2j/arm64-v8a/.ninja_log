@@ -1,0 +1,12 @@
+# ninja log v5
+22	5583	7522846557584471	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e3a761035d4f4cad
+16	5648	7522846560041796	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	9cbc89778145401a
+34	5886	7522846560564476	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e81ed2e071d6e33f
+10	6809	7522846571531435	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1810b2539192cc59
+5887	7732	7522846580951418	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	67ee4c441d7ff568
+28	7954	7522846581002224	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d950213815a6e251
+2	8163	7522846584961195	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	65164cb62328016a
+5586	9499	7522846598995022	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7da119ed857608b2
+5649	10017	7522846603865319	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3d5d60ad7738f87c
+7736	10107	7522846603161470	D:/Pokemon/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1o4j5a2j/obj/arm64-v8a/libswappywrapper.so	5730aacc05406fc9
+10018	10436	7522846608580173	D:/Pokemon/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1o4j5a2j/obj/arm64-v8a/libgame.so	de802ae997218e3a
